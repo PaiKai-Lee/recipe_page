@@ -30,7 +30,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://paikai-lee.github.io/recipe_page/)
 
 ## My process
 
